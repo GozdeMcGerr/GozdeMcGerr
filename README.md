@@ -1,72 +1,56 @@
-<img src="https://github.com/GozdeMcGerr/GozdeMcGerr/blob/a14b8a0379de37f21a670283c272841f1716af68/Screenshot%20(183).png" alt="Profile Picture" width="200" style="border-radius:50%;">
+<img src="https://raw.githubusercontent.com/GozdeMcGerr/GozdeMcGerr/a14b8a0379de37f21a670283c272841f1716af68/Screenshot%20(183).png" alt="Gozde McGerr" width="150" style="border-radius:50%;">
 
-# Hi there, I'm Gozde McGerr! 👋
+# Hi, I'm Gozde McGerr! 👋  
 
-Welcome to my GitHub profile! From **insights to impact**, I thrive on uncovering patterns, predicting outcomes, and enabling data-driven decisions. My passion lies in transforming raw data into actionable insights that help organizations thrive. 🚀
-
----
-
-## About Me 🌟
-
-The **transformative power of data** has always captivated me. My journey into data analytics started during my academic studies, where I fell in love with both qualitative and quantitative analysis. Since then, I have developed a deep passion for data-backed decision-making to enhance business performance and efficiency.
-
-### My Highlights:
-
-- **Advanced Data Analytics**: Skilled in Python for identifying trends and patterns that drive actionable insights.
-- **Insight Extraction**: Leveraging Python and R to provide data-driven recommendations for strategic decisions.
-- **Data Visualization**: Proficient in creating impactful visualizations using Tableau and Power BI to guide decision-making.
-- **Stakeholder Communication**: Expertise in presenting findings and actionable insights to diverse audiences.
+**Data Analyst | Problem Solver | Insight Explorer**  
+Turning raw data into impactful business decisions through actionable insights.  
 
 ---
 
-## Tools & Technologies 🛠️
-
-- **Programming & Data Tools**: Python, SQL, R, Excel
-- **Visualization Tools**: Tableau, Power BI
-- **Analytical Methods**: Predictive Analytics, Machine Learning, and Data Cleaning
-
----
-
-## My Projects 💡
-
-### 1️⃣ **Student Performance Analysis**
-Analyzed a large dataset to identify factors impacting student success and dropout rates. Utilized **linear regression** and **exploratory data analysis**, resulting in actionable recommendations for improving student retention.
-
-### 2️⃣ **NHS Staff Utilization**
-Optimized staffing during the pandemic using predictive modeling and data visualization, leading to reduced missed appointments and improved operational efficiency.
-
-### 3️⃣ **Gaming Industry Insights**
-Conducted **customer loyalty** analysis using RFM modeling to enhance engagement strategies for a gaming leader, boosting sales and customer satisfaction.
+## 🛠 Skills and Tools  
+**Programming**: Python, SQL, R  
+**Data Visualization**: Tableau, Power BI  
+**Data Analysis**: Machine Learning, Predictive Analytics  
+**Tools**: Excel, Jupyter Notebook  
 
 ---
 
-## My Journey 🚀
+## 🌟 About Me  
 
-After completing a distinction in the **Data Analytics Programme** at the London School of Economics (LSE) and participating in the **Data Analyst Accelerator Skills Bootcamp**, I am currently enrolled in the **Data Science Bootcamp** at HyperionDev, mastering Python and expanding my expertise.
+I thrive on uncovering trends in data to guide strategic decisions and optimize operations. My journey in analytics began with an academic focus on qualitative and quantitative methods, later transforming into a professional pursuit of data science.
 
----
-
-## My Portfolio 🌐
-
-Check out my portfolio to explore more about my work: [Gozde McGerr Portfolio](https://www.bulbapp.com/GozdeMcGerr/portfolio)
+- 🏅 **Distinction** in Data Analytics Program, London School of Economics  
+- 📚 Currently mastering Python through the **HyperionDev Data Science Bootcamp**  
+- 💡 Passionate about creating **data-driven solutions** to complex problems  
 
 ---
 
-## Let’s Connect 🌐
+## 🔍 Featured Projects  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gozdemcgerr/)
-- 📧 [Email Me](mailto:gozde.mcgerr@example.com)
+**1️⃣ Student Performance Analysis**  
+Explored key factors influencing student success and retention using linear regression.  
+
+**2️⃣ NHS Staff Utilization Optimization**  
+Devised predictive models for staff allocation, improving efficiency and reducing missed appointments.  
+
+**3️⃣ Gaming Customer Insights**  
+Applied RFM modeling to enhance customer loyalty strategies, driving higher engagement and sales.  
 
 ---
 
-## Fun Facts 🎨
+## 🌐 Connect with Me  
 
-When I’m not working with data, I enjoy swimming, running, and exploring art. 🎨🌊
+- 💼 [LinkedIn](https://www.linkedin.com/in/gozdemcgerr/)  
+- 📧 [Email Me](mailto:gozde.mcgerr@example.com)  
+- 📁 [Portfolio](https://www.bulbapp.com/GozdeMcGerr/portfolio)  
 
 ---
 
-<img src="https://via.placeholder.com/600x200.png?text=Your+Custom+Banner+Here" alt="GitHub Banner" style="border-radius:10px;">
+## ✨ Fun Facts  
 
-> "Data powers it all — from insights to impactful business decisions."
+When I'm not analyzing data, you'll find me:  
+- 🏊 Swimming  
+- 🎨 Exploring art  
+- 🏃 Running  
 
 Thank you for visiting my profile! Feel free to explore my repositories and projects. Let’s make data work wonders together! 🌟
