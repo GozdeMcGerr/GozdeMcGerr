@@ -40,20 +40,7 @@ Conducted **customer loyalty** analysis using RFM modeling to enhance engagement
 
 ## My Journey 🚀
 
-After completing a distinction in the **Data Analytics Program** at the London School of Economics (LSE) and participating in the **Data Analyst Accelerator Skills Bootcamp**, I am currently enrolled in the **Data Science Bootcamp** at HyperionDev, mastering Python and expanding my expertise.
-
----
-
-## My Portfolio 🌐
-
-Check out my portfolio to explore more about my work: [Gozde McGerr Portfolio](https://www.bulbapp.com/GozdeMcGerr/portfolio)
-
----
-
-## Let’s Connect 🌐
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/gozdemcgerr/)
-- 📧 [Email Me](mailto:gozde.mcgerr@example.com)
+Having earned a distinction in the **Data Analytics Programme at the London School of Economics (LSE)** and completed the **Data Analyst Accelerator Skills Bootcamp**, I am now advancing my expertise by mastering Python through the **Data Science Bootcamp at HyperionDev**.
 
 ---
 
