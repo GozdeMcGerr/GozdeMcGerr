@@ -1,6 +1,3 @@
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://raw.githubusercontent.com/GozdeMcGerr/GozdeMcGerr/a14b8a0379de37f21a670283c272841f1716af68/Screenshot%20(183).png" alt="Gozde McGerr" width="150" style="border-radius:50%;">
-  
 # Hi there, I'm Gozde McGerr! 👋
 
 Welcome to my GitHub profile! From **insights to impact**, I thrive on uncovering patterns, predicting outcomes, and enabling data-driven decisions. My passion lies in transforming raw data into actionable insights that help organizations thrive. 🚀
@@ -65,8 +62,6 @@ Check out my portfolio to explore more about my work: [Gozde McGerr Portfolio](h
 When I’m not working with data, I enjoy swimming, running, and exploring art. 🎨🌊
 
 ---
-
-<img src="https://via.placeholder.com/600x200.png?text=Your+Custom+Banner+Here" alt="GitHub Banner" style="border-radius:10px;">
 
 > "Data powers it all — from insights to impactful business decisions."
 
