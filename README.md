@@ -1,9 +1,19 @@
-<img src="https://raw.githubusercontent.com/GozdeMcGerr/GozdeMcGerr/a14b8a0379de37f21a670283c272841f1716af68/Screenshot%20(183).png" alt="Gozde McGerr" width="150" style="border-radius:50%;">
-
-# Hi, I'm Gozde McGerr! 👋  
-
-**Data Analyst | Problem Solver | Insight Explorer**  
-Turning raw data into impactful business decisions through actionable insights.  
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://raw.githubusercontent.com/GozdeMcGerr/GozdeMcGerr/a14b8a0379de37f21a670283c272841f1716af68/Screenshot%20(183).png" alt="Gozde McGerr" width="150" style="border-radius:50%;">
+  
+  <div>
+    <h1>Hi, I'm Gozde McGerr! 👋</h1>
+    <p>
+      <b>Data Analyst | Problem Solver | Insight Explorer</b><br>
+      Turning raw data into impactful business decisions through actionable insights.
+    </p>
+    <p>
+      📍 Based in <b>East Sussex, UK</b><br>
+      🎓 <b>Distinction</b> in Data Analytics, LSE<br>
+      💡 Currently mastering Python at the <b>HyperionDev Data Science Bootcamp</b>
+    </p>
+  </div>
+</div>
 
 ---
 
@@ -18,10 +28,6 @@ Turning raw data into impactful business decisions through actionable insights.
 ## 🌟 About Me  
 
 I thrive on uncovering trends in data to guide strategic decisions and optimize operations. My journey in analytics began with an academic focus on qualitative and quantitative methods, later transforming into a professional pursuit of data science.
-
-- 🏅 **Distinction** in Data Analytics Program, London School of Economics  
-- 📚 Currently mastering Python through the **HyperionDev Data Science Bootcamp**  
-- 💡 Passionate about creating **data-driven solutions** to complex problems  
 
 ---
 
@@ -52,5 +58,3 @@ When I'm not analyzing data, you'll find me:
 - 🏊 Swimming  
 - 🎨 Exploring art  
 - 🏃 Running  
-
-Thank you for visiting my profile! Feel free to explore my repositories and projects. Let’s make data work wonders together! 🌟
